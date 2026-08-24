@@ -1,0 +1,17 @@
+# mkdocs build output
+site/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+*.swp
+
+# Office / CAD temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.bak
+*.tmp
