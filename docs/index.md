@@ -1,6 +1,6 @@
 # Jack Welch- MEGR 2156 Portfolio
 
-![MEGR 2156-7 Title](MEGR2156title.png)
+![MEGR 2156-7 Title](ImageForArticle_703(1).webp)
 
 This site is the working record of your engineering design decisions across MEGR 2157. Every entry follows the Analyze, Decide, Communicate structure in accordance with standard engineering documentation practice, so a reader can see not just what you built, but how and why you built it that way. Engineering documentation is a skill developed through deliberate practice. Each assignment is an opportunity to improve the precision, clarity, and professional quality of how you record and defend your work. As you progress through the semester your engineering capability will grow alongside your documentation — this portfolio is the record of that journey.
 
