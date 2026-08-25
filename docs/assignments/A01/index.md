@@ -16,7 +16,7 @@
 
 **Part B: Product Analysis: The zipper or separable fastener**  
 
-Primary function:
+Primary function:  
   &nbsp;&nbsp;&nbsp;&nbsp;The primary function of the zipper is to connect and fasten two portions of fabric together temporarily, done by mechanically interlocking metal teeth, the teeth are individually joined to the fabric.  
   
   Governing Model:  
