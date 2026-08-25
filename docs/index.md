@@ -11,7 +11,10 @@ As an engineer I want to use my capabilities and knowledge to make the world a b
 ---
 **Explore my qualifications**  
 <a href="Resume.md">
-  <img src="ResumeButton.jpg" alt="Resume" width="200">
+  <img src="ResumeButton.jpg" alt="Resume" width="100">
+</a>
+<a href="Projects.md">
+  <img src="ProjectsButton.jpg" alt="Projects" width="80">
 </a>
 
 
