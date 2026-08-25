@@ -3,6 +3,7 @@
 ![CoverPhoto](Hydro_electric_dam_building.jpg)  
 **Welcome to my Portfolio!**  
 Here you will find my progress as mechanical engineer in the making!  
+This portfolio is a record of my academic progress, it also contains personal/school projects and a detailed resume which can be found below.
 
 ---
 **My Goals**  
