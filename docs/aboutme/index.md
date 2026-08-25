@@ -1,2 +1,4 @@
-#About Me
-This is how to edit
+#About Me  
+##Background  
+
+
