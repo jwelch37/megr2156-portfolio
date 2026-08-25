@@ -45,7 +45,15 @@ In the original design of the zipper from 1914, the engineer included a trapezoi
 
 
 
-## Decide
+## Decide  
+**Homepage Identity**  
+I feel that my homepage gives a concise summary of my goals as an engineer, which is important as it represents my identity as a person and as a professional, and allows a reader to get an immediate impression of me. It is organized simply to avoid confusion, with a quick introduction and buttons that link to what would be most important to an employer, my resume and projects. The homepage also has an apparent menu to the left that leads to every section of my portfolio that needs to be accessed.  
+
+**Intentional Customization**  
+I changed the templates base color from green to blue. This change satisfies simple aesthetics for my page, the color matches, my cover photo and linking buttons at the bottom of the homepage, everything matches and is easy on the eyes for reader.  
+
+**Documentation Standard**  
+I will hold my portfolio content, including my assignments to a standard that I would feel proud and confident to show to a future employer, all contents will be professional, useful, and my best work.
 
 
 ## Communicate
