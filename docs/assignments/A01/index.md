@@ -12,6 +12,7 @@
   -Portfolio 2: Alexander Cape Jones&nbsp;&nbsp;&nbsp;&nbsp;(https://acapejones.github.io/#)  
   &nbsp;&nbsp;&nbsp;&nbsp;Alexander's Portfolio is well made but needs work in multiple areas. Although the language was appropriate for an engineering portfolio, I immediately noticed spelling errors in his about me page, and later in the projects page. His page of projects are in a listed format, with the pictures grouped one after the other with text preceding it. To navigate to any specific project, one would have to scroll through the list and find it, which is not ideal for a colleague or employer wishing to view his work. The descriptions of each project were quite short, and did not include much if any reasoning to why certain decisions were made during the process. They did not include enough information for replication, and were more like summaries of each project. 
 
+***
 
 **Part B: Product Analysis: The zipper or separable fastener**  
 
@@ -29,13 +30,20 @@ The fastener has a Y or forking geometry that guides the rows of teeth together.
 
 Teeth  
 <img src="IMG_0391.jpeg" alt="Teeth" width="20%">  
-The teeth have a clamp that attaches the teeth to the fabric, at the end of the clamp is the functional tooth. The teeth have a coned geometry with a curved tip, and the base of the cone is indented. This allows each tooth to slide into place of the above tooth
+The teeth have a clamp that attaches the teeth to the fabric, at the end of the clamp is the functional tooth. The teeth have a coned geometry with a domed tip, and the base of the cone is indented with the same domed shape. This allows each tooth to slide into the indented space of the above tooth on the opposite row. This geometry accomplishes the main of function of the zipper, adjoining the two sides of fabric and keeping them securely in place.  
+
+Patent: Separable Fastener (https://patents.google.com/patent/US1219881A/en)   
+Patent #: US1219881A  
+Author: Gideon Sundback  
+
+Alternative Solutions:  
+-Plastic or metal buttons sewn to pants with holes on the opposite fabric end.  
+-Holes on both end of fabric with offset placements and a string at the bottom of the seem that is then weaved through the holes and tied at the top  
+
+Design Decision:  
+In the original design of the zipper from 1914, the engineer included a trapezoid shaped metal loop at the top of each row of teeth. This was included in the design to be the end of the zipper and prevent the fastener from sliding off the end, its geometry allows it to fill in the forked pathways of the fastener but not move or connect, keeping the fastener in place.
 
 
- 
- 
-
- 
 
 ## Decide
 
