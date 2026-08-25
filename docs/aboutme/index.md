@@ -3,11 +3,13 @@ I was born and raised in Mooresville, NC and am in my sophomore year at UNC Char
 As a kid I loved the idea of building and creating something from my own ideas and with my own hands, and had a fascination about how the things we use everyday work, but as a kid I never realized engineering was where I could apply that passion.  
 It wasn't until I began community college that realized that Mechanical Engineering was where right for me.  
 <img src="IMG_5858.jpeg" alt="Pitt" width="20%">  
-Me at my first community college.
+Me at my first community college.  
 <img src="IMG_6776.jpeg" alt="Plant" width="30%">  
 Automatic plant watering system based on soil moisture data.  
 
-
+<a href="mailto:jwelch37@charlotte.edu">
+  <img src="Contact.png" alt="Email Me" width="150">
+</a>
 
 
 
