@@ -10,10 +10,10 @@ As an engineer I want to use my capabilities and knowledge to make the world a b
 
 ---
 **Explore my qualifications:**    
-<a href="Resume.md">
+<a href="resume.md">
   <img src="ResumeButton.jpg" alt="Resume" width="100">
 </a>
-<a href="Projects.md">
+<a href="projects.md">
   <img src="ProjectsButton.jpg" alt="Projects" width="80">
 </a>
 
