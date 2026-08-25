@@ -24,6 +24,15 @@ Primary function:
  Component Geometry:
 
  Fastener  
+<img src="IMG_0384.jpeg" alt="Fastener" width="20%">  
+The fastener has a Y or forking geometry that guides the rows of teeth together. The length of the pathways are important to the zippers mechanical function as it levels the rows equally so that the teeth will be aligned when connecting. The top and bottom sections of the fastener only connect at the top, the rest of the fastener that are not the teeth pathways have a gap between the top and bottom sections. This gap provides just enough space for the fabric to fit and easily slide up and down, while also keeping the fastener in place.  
+
+Teeth  
+<img src="IMG_0391.jpeg" alt="Teeth" width="20%">  
+The teeth have a clamp that attaches the teeth to the fabric, at the end of the clamp is the functional tooth. The teeth have a coned geometry with a curved tip, and the base of the cone is indented. This allows each tooth to slide into place of the above tooth
+
+
+ 
  
 
  
