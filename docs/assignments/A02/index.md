@@ -23,7 +23,9 @@ Then I solved for all of the internal forces method of joints. Drawing a FBD of 
 
 <img src="1000001193.jpg" alt="Alt Text" width="50%"> <img src="1000001196.jpg" alt="Alt Text" width="50%">  
 
+# Determining Minimum Cross-Sectional Area of the Members  
 
+The next step was to calculate the minimum cross-sectional area of the members that would support the 20KN loads. I did this by relating the formula for stress with the relation between the yield strength and a given safety factor of 3.5.  
 
 
 
