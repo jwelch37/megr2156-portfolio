@@ -25,8 +25,13 @@ Then I solved for all of the internal forces method of joints. Drawing a FBD of 
 
 # Determining Minimum Cross-Sectional Area of the Members  
 
-The next step was to calculate the minimum cross-sectional area of the members that would support the 20KN loads. I did this by relating the formula for stress with the relation between the yield strength and a given safety factor of 3.5.  
+The next step was to calculate the minimum cross-sectional area of the members that would support the 20KN loads. I did this by relating the formula for stress with the relation between the yield strength and a given safety factor of 3.5. I also calculated the approximate weight of the truss, I calculated the members all separately, grouping them if they were identical. I found the weight by multiplying the length of the member, by its cross-sectional area and density. I found the weight to be 12.283 kg, as can be seen below. I found the density of A500 steel here:  (https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/)  
+<img src="1000001199.jpg" alt="Alt Text" width="50%">  
 
+
+The yield strength for A500 steel is 345 MPa, which is info I found online at (https://www.tottentubes.com/astm-a500-specification-information).  
+<img src="yield.png" alt="Alt Text" width="50%">  
+I decided on using grade C because I read that it was most commonly used in construction.  
 
 
 
