@@ -48,11 +48,15 @@ These are the dimensions I decided to use for my members.
 <img src="Dimension2.png" alt="Alt Text" width="30%">  
 I used these dimensions for all of the members of my truss during modeling.  
 
-<img src="truss1.png" alt="Alt Text" width="30%">  <img src=".png" alt="Alt Text" width="30%">  
+Modeling in progress and finished product with pin holes.  
+<img src="truss1.png" alt="Alt Text" width="50%">  <img src="Truss+pins.png" alt="Alt Text" width="50%">  
+
+I am interested in different ways I could have done this model, I disliked how many different extrudes I used, and felt it could've been done quicker and more efficiently. However, by dividing the extrudes into portions, this model could possibly be reused with altered dimensions quite easily.  
 
 I dimensioned the model exactly as my hand drawn truss. This ensured all my calculations would apply as accurately as possible to the model. The calculation I could verify was the weight.  
 
-SolidWorks does not have A500 steel by default. So I researched what the most similar steel was that SolidWorks had available. Which directed me to (https://blog.thepipingmart.com/metals/a36-vs-a500-steel-whats-the-difference/) which made it clear that 
+SolidWorks does not have A500 steel by default. So I researched what the most similar steel was that SolidWorks had available. Which directed me to (https://blog.thepipingmart.com/metals/a36-vs-a500-steel-whats-the-difference/) which made it clear that A36 Steel would be a good option because of its similar yield strength to A500 Steel.  
+
 
 
 ## Decide
