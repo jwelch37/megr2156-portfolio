@@ -68,7 +68,7 @@ I dimensioned the model exactly as my hand drawn truss. This ensured all my calc
 SolidWorks does not have A500 steel by default. So I researched what the most similar steel was that SolidWorks had available. Which directed me to (https://blog.thepipingmart.com/metals/a36-vs-a500-steel-whats-the-difference/) which made it clear that A36 Steel would be a good option because of its similar yield strength to A500 Steel.  
 <img src="steel.png" alt="Alt Text" width="50%">  
 
-I used to the mass properties analysis in SolidWorks so I could compare my model to my hand calculations.  
+I used the mass properties analysis in SolidWorks so I could compare my model to my hand calculations.  
 <img src="Mass.png" alt="Alt Text" width="50%">  
 
 My calculated weight for the whole truss, (which can be seen under the Designing the Truss section) was 12.283 kg or 12283 g, which is 600g off from the SolidWorks model, this difference can be attributed to the difference in density between A36 and A500 steel.  
