@@ -14,7 +14,14 @@
 ## Analyze  
 # Designing the Truss  
 For my truss, I decided to use a simple design that consisted of only right triangles, which would allow for easier calculations.  
-<img src="1000001187.jpg" alt="Alt Text" width="50%">
+<img src="1000001187.jpg" alt="Alt Text" width="50%">  
+
+Next was to find the internal forces in each of the members, the goal being to find the maximum internal force, so I could later find the minimum cross-sectional area. First, I had to find the support reactions at pin A and roller B, the vertical reaction at B being of the most importance, because it allowed me to begin solving for forces at joint B.  <img src="1000001190.jpg" alt="Alt Text" width="50%">  
+
+Then I solved for all of the internal forces method of joints. Drawing a FBD of every joint.  
+
+<img src="1000001193.jpg" alt="Alt Text" width="50%">  
+
 
 
 ## Decide
