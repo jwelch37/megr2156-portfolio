@@ -43,10 +43,16 @@ I then solved for the weight of the pins, using a given density of 0.278 lb/in^3
 
 # Modeling the Truss and Pins  
 Before modelling in SolidWorks, I used an online calculator (https://www.sensorsone.com/) to find acceptable dimensions for both my members and pins based on the cross-sectional area I calculated.  
-<img src="dimensions.png" alt="Alt Text" width="30%">  
+<img src="dimension.png" alt="Alt Text" width="30%">  
 These are the dimensions I decided to use for my members.  
-<img src="Dimensions2.png" alt="Alt Text" width="30%">  
+<img src="Dimension2.png" alt="Alt Text" width="30%">  
 I used these dimensions for all of the members of my truss during modeling.  
+
+<img src="truss1.png" alt="Alt Text" width="30%">  <img src=".png" alt="Alt Text" width="30%">  
+
+I dimensioned the model exactly as my hand drawn truss. This ensured all my calculations would apply as accurately as possible to the model. The calculation I could verify was the weight.  
+
+SolidWorks does not have A500 steel by default. So I researched what the most similar steel was that SolidWorks had available. Which directed me to (https://blog.thepipingmart.com/metals/a36-vs-a500-steel-whats-the-difference/) which made it clear that 
 
 
 ## Decide
