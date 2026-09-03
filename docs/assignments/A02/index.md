@@ -41,7 +41,10 @@ The cross-sectional area of the pins must also be found, to ensure the can suppo
 I then solved for the weight of the pins, using a given density of 0.278 lb/in^3. For consistency of units, I converted it to kg/mm^3.  
 <img src="1000001205.jpg" alt="Alt Text" width="50%">  
 
-# 
+# Modeling the Truss and Pins  
+Before modelling, I use an online calculator (https://www.sensorsone.com/) to find acceptable dimensions for both my members and pins based on the cross-sectional area I calculated.  
+<img src="dimensions.jpg" alt="Alt Text" width="50%">  
+These are the dimensions I decided to use for my members.  
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
