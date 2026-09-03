@@ -53,14 +53,38 @@ Modeling in progress and finished product with pin holes.
 
 I am interested in different ways I could have done this model, I disliked how many different extrudes I used, and felt it could've been done quicker and more efficiently. However, by dividing the extrudes into portions, this model could possibly be reused with altered dimensions quite easily.  
 
+The pin holes in the truss were dimensioned based off of the online dimensioning application, which calculated a diameter of 13.446 mm based off the 142mm^2 cross-sectional area of the pins.  
+<img src="pindimensions.png" alt="Alt Text" width="40%"> <img src="Pinhole.png" alt="Alt Text" width="40%">  
+
+I modeled the pins with the same dimensions, and a length of 12 mm. I also fit them into an assembly with the truss.  
+<img src="Pin.png" alt="Alt Text" width="50%"> <img src="pinassembl.png" alt="Alt Text" width="50%">   
+
+
+
+
+
 I dimensioned the model exactly as my hand drawn truss. This ensured all my calculations would apply as accurately as possible to the model. The calculation I could verify was the weight.  
 
 SolidWorks does not have A500 steel by default. So I researched what the most similar steel was that SolidWorks had available. Which directed me to (https://blog.thepipingmart.com/metals/a36-vs-a500-steel-whats-the-difference/) which made it clear that A36 Steel would be a good option because of its similar yield strength to A500 Steel.  
+<img src="steel.png" alt="Alt Text" width="50%">  
+
+I used to the mass properties analysis in SolidWorks so I could compare my model to my hand calculations.  
+<img src="Mass.png" alt="Alt Text" width="50%">  
+
+My calculated weight for the whole truss, (which can be seen under the Designing the Truss section) was 12.283 kg or 12283 g, which is 600g off from the SolidWorks model, this difference can be attributed to the difference in density between A36 and A500 steel.  
+
+
+**LINK TO SOLIDWORKS FILE**  
+https://drive.google.com/file/d/1_o8AasqzZo0PRH2G3RT-05GG75EwUAsK/view?usp=sharing  
 
 
 
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
+## Decide  
+I decided on a simple but strong geometry that consisted of only right triangles, which allowed for easier calculations. I based the shape off of a common truss design I was familiar with and for that reason was effective.  
 
-## Communicate
+
+## Communicate  
+**Lessons Learned**  
+
+This was a great learning experience, before this I was only familiar with calculating basic static equilibrium of trusses. I observed how yield strength, material properties, shear yield strength, and cross sectional area of elements contribute to the stability and capability of a structure like a truss and how they influence design decisions.  
 
