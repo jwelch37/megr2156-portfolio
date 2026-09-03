@@ -19,13 +19,13 @@ For my truss, I decided to use a simple design that consisted of only right tria
 Next was to find the internal forces in each of the members, the goal being to find the maximum internal force, so I could later find the minimum cross-sectional area. First, I had to find the support reactions at pin A and roller B, the vertical reaction at B being of the most importance, because it allowed me to begin solving for forces at joint B.  
 <img src="1000001190.jpg" alt="Alt Text" width="50%">  
 
-Then I solved for all of the internal forces method of joints. Drawing a FBD of every joint.  
+Then I solved for all of the internal forces using method of joints. Drawing a FBD of every joint.  
 
 <img src="1000001193.jpg" alt="Alt Text" width="50%"> <img src="1000001196.jpg" alt="Alt Text" width="50%">  
 
 # Determining Minimum Cross-Sectional Area of the Members  
 
-The next step was to calculate the minimum cross-sectional area of the members that would support the 20KN loads. I did this by relating the formula for stress with the relation between the yield strength and a given safety factor of 3.5. I also calculated the approximate weight of the truss, I calculated the members all separately, grouping them if they were identical. I found the weight by multiplying the length of the member, by its cross-sectional area and density. I found the weight to be 12.283 kg, as can be seen below. I found the density of A500 steel here:  (https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/)  
+The next step was to calculate the minimum cross-sectional area of the members that would support the 20KN loads. I did this by relating the formula for stress with the relation between the yield strength and a given safety factor of 3.5. I also calculated the approximate weight of the truss, I calculated the members all separately, grouping them if they were identical. I found the weight by multiplying the length of the member by its cross-sectional area and density. I found the weight to be 12.283 kg, as can be seen below. I found the density of A500 steel online here:  (https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/)  
 <img src="1000001199.jpg" alt="Alt Text" width="50%">  
 
 
@@ -33,7 +33,15 @@ The yield strength for A500 steel is 345 MPa, which is info I found online at (h
 <img src="yield.png" alt="Alt Text" width="50%">  
 I decided on using grade C because I read that it was most commonly used in construction.  
 
+# Determining Pin Size  
 
+The cross-sectional area of the pins must also be found, to ensure the can support the members under shear stress. The same process is applied here that I did for the members. Using the largest internal force in the truss and comparing with the relation of yield shear strength and a safety factor. Both were given, the yield strength being 170 ksi and the SF being 4. I converted ksi into MPa to keep consistency.  
+<img src="1000001202.jpg" alt="Alt Text" width="50%">  
+
+I then solved for the weight of the pins, using a given density of 0.278 lb/in^3. For consistency of units, I converted it to kg/mm^3.  
+<img src="1000001205.jpg" alt="Alt Text" width="50%">  
+
+# 
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
