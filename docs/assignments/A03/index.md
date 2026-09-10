@@ -1,4 +1,3 @@
-<img width="947" height="772" alt="image" src="https://github.com/user-attachments/assets/37d4bee3-5f43-4a72-8183-104aa02e4651" /># A3 – [Topic]
 
 ## Objective  
 *Use axial deflection modeling to design its dimensions  
@@ -33,11 +32,16 @@ I finalized on the dimensions 1.0in x 1.0in for the bar and 0.6in x 0.6in for th
 
 <img src="equationsfinal.png" alt="Alt Text" width="40%">  
 
+
 This yielded a length of 128.097in, which felt more reasonable and realistic.  
 
 I now had all the needed dimensions of my bar to use for modeling, I directly inputted the dimensions using variables from my equations sheet into the dimensions of the model.  
 
-<img src=".png" alt="Alt Text" width="40%"> 
+<img src="dimensions1.png" alt="Alt Text" width="40%"> <img src="dimensions2.png" alt="Alt Text" width="30%"> <img src="dimensions3.png" alt="Alt Text" width="40%"> <img src="dimension4.png" alt="Alt Text" width="40%">  
+
+I then applied the length and completed the modelling of the bar.  
+
+<img src="Lapply.png" alt="Alt Text" width="40%"> <img src="beamiso.png" alt="Alt Text" width="40%">
 
 
 ## Decide
