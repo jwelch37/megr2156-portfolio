@@ -41,11 +41,40 @@ I now had all the needed dimensions of my bar to use for modeling, I directly in
 
 I then applied the length and completed the modelling of the bar.  
 
-<img src="Lapply.png" alt="Alt Text" width="40%"> <img src="beamiso.png" alt="Alt Text" width="40%">
+<img src="Lapply.png" alt="Alt Text" width="35%"> <img src="beamiso.png" alt="Alt Text" width="40%">  
 
 
-## Decide
+# Finite Element Analysis(FEA)  
+
+FEA was used to verify that the geometry used was accurate and that the bar wouldn't exceed the maximum elongation under the decided axial force. It is also useful to confirm that the stress under the force doesn't exceed Aluminum's yield strength.  
+
+Before I conducted a study on the bar, I defined the locations of the fixed support and where the force would be applied axially.  
+<img src="fixed.png" alt="Alt Text" width="40%"> <img src="force.png" alt="Alt Text" width="40%">
+
+**Elongation**  
+The left image shows the elongation of the bar, the arrows can be seen where the original length was before the force was applied. The graph on the right is the most important part of our analysis, as it shows the max elongation at the top. The max elongation is 0.008997in.
+<img src="elongation.png" alt="Alt Text" width="40%"> <img src="elongationgraph.png" alt="Alt Text" width="10%">  
+
+**Stress**  
+This von Mises map shows the stress throughout the bar in psi. The value at the top is the max stress in the bar, this value is 795.77 psi. The photo also shows the yield strength which is 3999 psi or 3.999 ksi. So our force results in a stress far below the yield strength.
+<img src="VonMises.png" alt="Alt Text" width="20%">  
+
+We can also gather data on the Safety Factor with our FEA.  
+<img src="FOS.png" alt="Alt Text" width="40%">  
+
+## Decide  
+
+# Design Reflection  
+
+**Deflection Comparison**  
+
+The max deflection used in calculations was 0.009in, and the max deflection found in the FEA was 0.008997. That makes the percent difference only 0.033%.  
+It makes sense that the percent difference would be very low going from calculations to simulation because of the bars simple geometry and simple loading. Additionally, my SolidWorks was set to report results from calculations to 3 decimal points, this contributes to accuracy.  
+
+For this design I would likely trust the FEA calculations, it gives values to the most accuracy.  
+
 
 
 ## Communicate
 
+**Lessons Learned**
