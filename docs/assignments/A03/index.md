@@ -39,6 +39,7 @@ I then applied the length and completed the modelling of the bar.
 
 <img src="Lapply.png" alt="Alt Text" width="35%"> <img src="beamiso.png" alt="Alt Text" width="40%">  
 
+**MODEL DOWNLOAD: (https://drive.google.com/file/d/1VUhI47i5kyWRx9SMOoQwGqGhWofQf7MA/view?usp=sharing)**
 
 # Finite Element Analysis(FEA)  
 
