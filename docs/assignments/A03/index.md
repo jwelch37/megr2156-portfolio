@@ -1,10 +1,10 @@
 
 ## Objective  
-*Use axial deflection modeling to design its dimensions  
-*Use parametric design to determine a bars length  
-*Introduce you to FEA (Finite Element Analysis)  
-*Introduce you to linking dimensions to appropriate parameters in CAD.  
-*Compare and contrast the different analysis  
+-Use axial deflection modeling to design its dimensions  
+-Use parametric design to determine a bars length  
+-Introduction to FEA (Finite Element Analysis)  
+-Introduction to linking dimensions to appropriate parameters in CAD.  
+-Compare and contrast the different analysis  
 
 ## Analyze  
 
@@ -56,7 +56,7 @@ The left image shows the elongation of the bar, the arrows can be seen where the
 <img src="elongation.png" alt="Alt Text" width="40%"> <img src="elongationgraph.png" alt="Alt Text" width="10%">  
 
 **Stress**  
-This von Mises map shows the stress throughout the bar in psi. The value at the top is the max stress in the bar, this value is 795.77 psi. The photo also shows the yield strength which is 3999 psi or 3.999 ksi. So our force results in a stress far below the yield strength.
+This von Mises map shows the stress throughout the bar in psi. The value at the top is the max stress in the bar, this value is 795.77 psi. The photo also shows the yield strength which is 3999 psi. So the force results in a stress far below the yield strength.  
 <img src="VonMises.png" alt="Alt Text" width="20%">  
 
 We can also gather data on the Safety Factor with our FEA.  
@@ -77,4 +77,7 @@ For this design I would likely trust the FEA calculations, it gives values to th
 
 ## Communicate
 
-**Lessons Learned**
+**Lessons Learned**  
+
+The main mistakes I made were in the process of inputting the variables in the equations sheet in SolidWorks, and choosing my bar's dimensions. My first choice of dimensions resulted in a bar length that was much larger than expected and wasn't feasible or realistic, and I had trouble finding dimensions that had a length that seemed practical when modeled. I spent approximately 5-6 hours in total on this assignment.  
+
