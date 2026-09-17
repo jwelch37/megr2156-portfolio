@@ -14,6 +14,8 @@ I then needed to design the two features of the mount. Feature 1 being the part 
 
 <img src="modulus_yield.png" alt="Description" width="40%">  
 
+## Feature 1  
+
 For feature 1, I assigned a rectangular geometry, and chose a length and height based on the dimensions of the motor. The third dimension, the base, would then be solved for using the beam bending equations for a cantilever beam. Also using the max stress and yield strength relation to safety factor to solve for max stress.  
 
 <img src="Feature1_FBD.jpg" alt="Description" width="50%">  
@@ -23,6 +25,16 @@ I would need to solve for the base twice to find the actual minimum base require
 <img src="feature1_solve.jpg" alt="Description" width="50%">  
 
 I found that the deflection was of greater consideration in this feature, so it determined the minimum base.  
+
+## Feature 2  
+
+For feature 2 I chose a similar rectangular geometry but positioned vertically with a portion fixed to the wall and a free hanging portion that experiences a moment. For the length used in the moment equation, I chose a length of the feature that would be free hanging.  
+
+<img src="feature2_FBD.jpg" alt="Description" width="50%">  
+
+I used the same method as I did for feature 1, solving for the minimum base with the beam bending equations based on max stress and deflection.  
+
+<img src="feature2_.jpg" alt="Description" width="50%">  
 
 
 ## Decide
