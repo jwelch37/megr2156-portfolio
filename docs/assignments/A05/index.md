@@ -76,15 +76,43 @@ Finally I would design a link that connects the feature A cylinder with another 
 
 The hole for feature A is to be a Running/Sliding fit, and the hole for the shaft is a locational transition fit. To account for these fit types, I used the appropriate hole tolerances in the tables in the Machinery's Handbook. 
 
-For feature A's hole, which has a diameter of 0.798 inch, has a tolerance of 0.0003
+For feature A's hole, which has a diameter of 0.798 inch, has a tolerance of 0.4 thousandths of an inch, which was added onto the diameter of the hole.
+
+<img src="RC.jpg" alt="Description" width="50%">  
+(Machinery's Handbook, pg. 654)  
+
+For the shaft, with a diameter of 1.0 inch, a larger clearance was needed, and a locational transition fit needed to be used. The tolerance needed for the hole was 0.8 thousandths of an inch.  
+
+<img src="LT.jpg" alt="Description" width="50%">  
+
+
+## Decide  
+
+I made two drawings based on each analysis.  
+
+Strength analysis:  
+
+<img src="strengthdraw.jpg" alt="Description" width="50%">  
+
+Stiffness analysis:  
+
+<img src="stiffdraw.jpg" alt="Description" width="50%">  
+
+
+## Communicate  
+
+**Lessons Learned:**  
+
+Failure mode:  
+For feature C, stress required a height of 0.407 inch, and stiffness required 0.278. This difference made the most sense to me because it had a concentrated load on one end which created a relatively large moment. The feature is supported on both sides and has a width almost equal to the length, which result in less deformation.  
+
+Error propagation:  
+There weren't any errors that propagated through my calculations, this is due to the fact that I double check all my units before solving and moving on to the next question, this is usually where my errors in solving occur.  
+
+Assumption Sensitivity:  
+An assumption I made for feature B was that the curved end of the bar was ignored. This was a safe assumption to make because this is just where the bar met the cylinder beam, is essentially one piece and it wasn't as important to know how it ended, but the majority of the bar was a rectangle. This would change things if this were different because normal stress would have been different at this end where the load was concentrated.  
 
 
 
 
-
-
-## Decide
-
-
-## Communicate
 
