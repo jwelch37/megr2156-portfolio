@@ -63,8 +63,20 @@ Strength analysis:
 
 Stiffness analysis:  
 
-<img src="stiffanalysis.jpg" alt="Description" width="50%">  
+<img src="stiffdraw.jpg" alt="Description" width="50%">  
 
+
+## Linkage Part  
+
+Finally I would design a link that connects the feature A cylinder with another 1.0 inch diameter shaft that holds the U-line strap. I calculated the minimum cross-sectional area, which occurs at the widest part of the shaft hole. I then verified the area and chosen length using the axial deflection equation, this is to ensure the dimensions do not result in an excessive deformation.  
+
+<img src="linkage.jpg" alt="Description" width="40%"> <img src="linkstrength.jpg" alt="Description" width="40%">  
+
+
+
+The hole for feature A is to be a Running/Sliding fit, and the hole for the shaft is a locational transition fit. To account for these fit types, I used the appropriate hole tolerances in the tables in the Machinery's Handbook. 
+
+For feature A's hole, which has a diameter of 0.798 inch, has a tolerance of 0.0003
 
 
 
