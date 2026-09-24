@@ -19,6 +19,8 @@ First I made decisions on material and the load. I chose Steel (ASTM A36) which 
 
 <img src="decide.jpg" alt="Description" width="40%">  
 
+## Strength Analysis  
+
 First I solved for minimum dimensions governed by the max allowable stress with a safety factor of 4.  
 
 I treated the cylindrical bar holding the strap as a cantilever beam, the length was determined by the width of the U-line strap.  
@@ -41,6 +43,7 @@ Feature E needed to be treated as a simply supported beam like feature C.
 
 <img src="strengthE.jpg" alt="Description" width="50%">  
 
+## Stiffness analysis  
 
 Next I needed to do an analysis based on stiffness to determine if the minimum dimensions would be more than those based on strength. I would use a deflection of 0.005 inch for all of the features. The formulas for deflection and moment of inertia when needed were found from the Machinery's Handbook.  
 
@@ -52,7 +55,19 @@ I went through the same process of analyzing each feature, using the same chosen
 <img src="stiffD.jpg" alt="Description" width="50%">  
 <img src="stiffE.jpg" alt="Description" width="50%">  
 
-I made two drawings based on each analysis
+I made two drawings based on each analysis.  
+
+Strength analysis:  
+
+<img src="strengthdraw.jpg" alt="Description" width="50%">  
+
+Stiffness analysis:  
+
+<img src="stiffanalysis.jpg" alt="Description" width="50%">  
+
+
+
+
 
 
 
