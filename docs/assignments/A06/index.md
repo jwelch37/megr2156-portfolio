@@ -11,11 +11,16 @@ I then designed the bracket based on these equations. This process was quite str
 
 <img src="b1.png" alt="Description" width="40%"> <img src="b2.png" alt="Description" width="20%"> <img src="b3.png" alt="Description" width="40%"> <img src="b4.png" alt="Description" width="40%"> <img src="b5.png" alt="Description" width="40%"> <img src="b6.png" alt="Description" width="40%"> <img src="b7.png" alt="Description" width="40%"> <img src="b8.png" alt="Description" width="40%"> <img src="b9.png" alt="Description" width="40%"> <img src="b10.png" alt="Description" width="40%"> <img src="b11.png" alt="Description" width="40%"> <img src="b12.png" alt="Description" width="40%"> <img src="b13.png" alt="Description" width="40%"> <img src="b14.png" alt="Description" width="40%"> <img src="b15.png" alt="Description" width="40%">  
 
+**Bracket Part File:** https://drive.google.com/file/d/1LfA1MSwr3TPzFAijn0KXpaU7-ff9Q74p/view?usp=sharing  
+
+
 ## Bracket Drawing
 
 This model was then to be put into a technical drawing, with an emphasis on the tolerances on the features that would interact with a T-beam, of which there were three. I also added a tolerance on the sides, which were feature D.  
 
 <img src="b_draw.png" alt="Description" width="40%">  
+
+**Drawing File:**  https://drive.google.com/file/d/1qbLIgZ08WrkpDnJJqcerqrtEU1cHia0R/view?usp=sharing  
 
 
 ## Reflections/Lessons Learned   
@@ -37,7 +42,29 @@ This assignment took about 6 hours to complete.
 
 ## Linkage Parametric Design  
 
-The linkage for the bracket was designed to have a running/sliding clearance at the hole connected to the bracket and a transition locational fit for a 1.0in diameter shaft. I had previously solved for the dimensions 
+The linkage for the bracket was designed to have a running/sliding clearance at the hole connected to the bracket and a transition locational fit for a 1.0in diameter shaft. I had previously solved for the minimum dimensions. The hole labelled d1 was designed with an extra .0004in clearance to accommodate the brackets cylinder.  
+
+<img src="l_eqs.png" alt="Description" width="80%">  
+
+I designed the top hole to have less than 1 inch of space above it so that would not interfere with the bracket if they were in assembly.  
+
+<img src="l1.png" alt="Description" width="40%">  <img src="l2.png" alt="Description" width="40%">  
+
+**Linkage Drawing File:** https://drive.google.com/file/d/17191F4sytAtQAtgAZT351g_D7utqgLQ6/view?usp=sharing  
+
+## Linkage Drawing  
+
+I learned the ASME Y14.5 standards for dimensioning and tolerance to apply to the two holes, using values from the Machinery's Handbook to determine tolerance and clearance.  
+
+<img src="l_draw.png" alt="Description" width="40%">  
+
+**Linkage Drawing File:** https://drive.google.com/file/d/17QEwUFTLuQxPMPcDH843URjybfnwHgpX/view?usp=sharing  
+
+
+## Reflections  
+
+I learned that determining function and purpose was the best way to determine tolerances and compatibility between two fitted parts, for example if movement is either intended, of no concern or not allowed. These tolerances communicate these same things, the tightness of the tolerance also communicates the function of the part.  
+
 
 
 
