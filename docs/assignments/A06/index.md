@@ -65,6 +65,8 @@ I learned the ASME Y14.5 standards for dimensioning and tolerance to apply to th
 
 I learned that determining function and purpose was the best way to determine tolerances and compatibility between two fitted parts, for example if movement is either intended, of no concern or not allowed. These tolerances communicate these same things, the tightness of the tolerance also communicates the function of the part.  
 
+#### Resources:  
+-Machinery's Handbook
 
 
 
