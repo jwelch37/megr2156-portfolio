@@ -45,7 +45,8 @@ I tabulated the results of all three designs, where it is obvious that the third
 
 <img src="bracket_table.png" width="50%" alt="Description of image">  
 
-**Link to File:** https://drive.google.com/file/d/1Lve3S8CwM9GcvglzAC4Yeh8BVqDJl1Is/view?usp=sharing  
+**Link to File:**  
+https://drive.google.com/file/d/1Lve3S8CwM9GcvglzAC4Yeh8BVqDJl1Is/view?usp=sharing  
 
 ## FEA on Linkage  
 
@@ -57,6 +58,36 @@ For the linkage, I set the constraint to be the upper hole that connects to the 
 
 <img src="link_constraint.png" width="50%" alt="Description of image">  
 
+The FEA results converged on the first try and had a reasonable, safety factor and deflection. So I focused on decreasing the stress on the linkage.  
+
+I did this by adding extra surface area for the bar to be loaded onto.  
+
+<img src="link2.png" width="50%" alt="Description of image">  
+
+This decreased the maximum stress dramatically, as well as lowered the deflection and raised the safety factor, which I set to a maximum of 15.  
+
+<img src="L2_write.jpg" width="50%" alt="Description of image">  
+
+The stress was focused at two small points on the face near the edge of the hole, so I decided to fillet the edges there to hopefully disperse the stress.  
+
+<img src="link3.png" width="50%" alt="Description of image">  
+
+This raised the max stress but it was less centered around a singular point.  
+
+<img src="L3_write.jpg" width="50%" alt="Description of image">  
+
+I tabulated the results of the designs to compare their results.  
+
+<img src="link_table.png" width="50%" alt="Description of image">  
+
+**Link to file:**  
+https://drive.google.com/file/d/1n9JwdXIgEc60iGm88d2MtAP-VPA5j-du/view?usp=sharing  
+
+## Lessons Learned  
+
+I learned about how stress is distributed through a part and how FEA is a useful tool for recognizing points where stress concentrates. I also learned about how testing convergence between meshes proves the consistency of a part and how the different meshes affect the values of a stress/deflection study.  
+
+I spent about 5 hours on this assignment.  
 
 
 
@@ -67,8 +98,5 @@ For the linkage, I set the constraint to be the upper hole that connects to the 
 
 
 
-## Decide
 
-
-## Communicate
 
