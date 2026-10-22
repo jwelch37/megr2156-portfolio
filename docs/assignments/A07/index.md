@@ -37,7 +37,29 @@ For the third and final optimization, I increased the width of the connection to
 
 <img src="bracket3.png" width="50%" alt="Description of image">  
 
-The 
+This design yielded better results in all parameters, although the safety factor was still small, it was isolated to very small parts of the connection piece.  
+
+<img src="B3_write.jpg" width="50%" alt="Description of image">  
+
+I tabulated the results of all three designs, where it is obvious that the third optimization was the best.   
+
+<img src="bracket_table.png" width="50%" alt="Description of image">  
+
+**Link to File:** https://drive.google.com/file/d/1Lve3S8CwM9GcvglzAC4Yeh8BVqDJl1Is/view?usp=sharing  
+
+## FEA on Linkage  
+
+Just like the bracket, I began with the original linkage as my first design to be analyzed.  
+
+<img src="link1.png" width="50%" alt="Description of image">  
+
+For the linkage, I set the constraint to be the upper hole that connects to the bracket, and the force to be applied on the inside of the bottom hole that holds the bar loaded with the 1200 lbf.  
+
+<img src="link_constraint.png" width="50%" alt="Description of image">  
+
+
+
+
 
 
 
