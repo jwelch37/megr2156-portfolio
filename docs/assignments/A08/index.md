@@ -114,7 +114,10 @@ Finally, I created a lid of the same shape and bolt hole position, but shorter, 
 I created an assembly of the shafts which I modeled in the same ASTM A36 Steel, the housing, the gears and the bearings. The bearings and gears were downloaded from McMaster-Carr.  
 
 <img src="assembly_gears.png" width="50%" alt="Description of image"> <img src="assembly_side.png" width="50%" alt="Description of image"> 
-<img src="final_assembly.png" width="50%" alt="Description of image">  
+<img src="final_assembly.png" width="50%" alt="Description of image">   
+
+## Part Drawings  
+
 
 
 ## Lessons Learned  
@@ -122,6 +125,13 @@ I created an assembly of the shafts which I modeled in the same ASTM A36 Steel, 
 I learned a lot about how gears work in this assignment, especially about how precise they are and the amount of components involved in creating functional gears. Especially the important function of journal bearings in gear assemblies, which I was unaware of. The idea of power transmission and how the forces between the gears interact to transmit power was new to me. I also learned more about fits while designing the interactions between the shaft and bearings and the bearings to the housing.  
 
 **CAD Files:**  
+Assembly: https://drive.google.com/file/d/1VU1wOduhiFH9zjBCs3mrTO8EneAIhb-k/view?usp=sharing  
+Gearbox bottom: https://drive.google.com/file/d/1YCzWUe-NrTiShCoLEJ3cFtJvJyqXWC5L/view?usp=sharing  
+Gearbox Top: https://drive.google.com/file/d/12WfqkQMTVJSOiCeRtyElpUulEFFUeVSS/view?usp=sharing  
+PT shaft: https://drive.google.com/file/d/1Mk_fvWxjjkPvHZ-oXRZeQVW72WdqcL4O/view?usp=sharing  
+Short Shaft: https://drive.google.com/file/d/1MdZMg481pz0g-WdSJXjKAmK2fAfebPea/view?usp=sharing  
+
+
 
 
 
