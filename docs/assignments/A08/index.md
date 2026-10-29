@@ -118,6 +118,8 @@ I created an assembly of the shafts which I modeled in the same ASTM A36 Steel, 
 
 ## Part Drawings  
 
+<img src="assembledraw.png" width="50%" alt="Description of image"> <img src="bottomdraw.png" width="50%" alt="Description of image"> <img src="topdraw.png" width="50%" alt="Description of image"> <img src="SSdraw.png" width="50%" alt="Description of image"> <img src="PTdraw.png" width="50%" alt="Description of image"> <img src="SSbearingdraw.png" width="50%" alt="Description of image"> <img src="PTbearingdraw.png" width="50%" alt="Description of image"> 
+
 
 
 ## Lessons Learned  
