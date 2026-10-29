@@ -54,7 +54,7 @@ The same process was used to find the clearance for this journal bearing.
 
 <img src="SSJdia.jpg" width="50%" alt="Description of image">  
 
-The final design component for the bearings was to determine the minimum thickness of the journal bearings walls. The parts only came with certain thickness, most commonly 1/16" or 1/8". So I decided I would round up to the closest.  
+The final design component for the bearings was to determine the minimum thickness of the journal bearings walls. The parts only came with certain thickness, most commonly 1/16" or 1/8". So I decided I would round up to the closest. I found the formula in the Machinery's Handbook and the allowable stress of Acetal online.  
 
 I did this for each bearing and ended up using the same thickness 1/16" for each. I used the thickness to find the outer diameter of the bearings, which was also listed in the parts details.  
 
@@ -72,9 +72,77 @@ I used these calculations to choose proper bearings from McMaster-Carr.
 <img src="SSbearing.png" width="50%" alt="Description of image">  
 
 
+
 ## Gearbox Design  
 
-For the gearbox
+Initial sketch of design:
+
+<img src="1000001518.jpg" width="50%" alt="Description of image">  
+
+Before I started modeling, I created parametric equations of all the dimensions I thought I would need. I did not end up using them all, but most of them were important to the modeling, especially the pitch diameters.  
+
+<img src="para.png" width="50%" alt="Description of image">  
+
+For the gearbox I based the design around the circular shapes of the gears, with the starting dimensions being the pitch diameters. I made two tangential circles with diameters matching the pitch diameters of the gear and pinion.  
+
+<img src="pitch_dia.png" width="50%" alt="Description of image">  
+
+I would refer to the midpoints of these circles later in the design to cut the holes for the shafts and bearings. This would ensure the gear and pinions were the proper distance from one another. First I offset these circles to make room and give clearance for the gears, then extruded the whole shape at a draft and made a shell.  
+
+<img src="shell.png" width="50%" alt="Description of image">  
+
+I then added a lip around the top edge of the shell where I could place bolt holes to connect the top and bottom of the gearbox.  
+
+<img src="lip.png" width="50%" alt="Description of image">  
+
+I then made the sketch for the hole cuts based on the midpoints of the circles from before. The material I made ASTM A36 Steel. I also added the bolt holes to each end.  
+
+<img src="wrong_holes.png" width="50%" alt="Description of image"> <img src="holes+steel" width="50%" alt="Description of image">  
+
+I did not realize until the assembly that I had made the hole for the power transmission based on the diameter of the shaft instead of the outer diameter of the bearings, so I went back and fixed them.  
+
+<img src="correct_holes.png" width="50%" alt="Description of image">  
+
+Next, I added extrusions around the holes, the idea behind them was to limit friction between the gears and the bottom of the housing.  
+
+<img src="final_bottom.png" width="50%" alt="Description of image">  
+
+Finally, I created a lid of the same shape and bolt hole position, but shorter, as the gears did not need more space.  
+
+<img src="final_bottom.png" width="50%" alt="Description of image">  
+
+I created an assembly of the shafts which I modeled in the same ASTM A36 Steel, the housing, the gears and the bearings. The bearings and gears were downloaded from McMaster-Carr.  
+
+<img src="assembly_gears.png" width="50%" alt="Description of image"> <img src="assembly_side.png" width="50%" alt="Description of image"> 
+<img src="final_assembly.png" width="50%" alt="Description of image">  
+
+
+## Lessons Learned  
+
+I learned a lot about how gears work in this assignment, especially about how precise they are and the amount of components involved in creating functional gears. Especially the important function of journal bearings in gear assemblies, which I was unaware of. The idea of power transmission and how the forces between the gears interact to transmit power was new to me. I also learned more about fits while designing the interactions between the shaft and bearings and the bearings to the housing.  
+
+**CAD Files:**  
+
+
+
+
+
+
+
+
+
+
+**Resources:**  
+https://www.mcmaster.com/7880K24/  
+https://www.mcmaster.com/7880K19/  
+https://www.mcmaster.com/2610T2/  
+https://www.mcmaster.com/2610T5/  
+https://www.directplastics.co.uk/pdf/datasheets/Acetal%20Data%20Sheet.pdf  
+
+
+
+
+
 
 
 
