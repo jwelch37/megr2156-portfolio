@@ -65,10 +65,16 @@ I used these calculations to choose proper bearings from McMaster-Carr.
 
 **Power Transmission Bearing:**  
 
+<img src="PTbearing.png" width="50%" alt="Description of image">  
 
 **Short Shaft Bearing:**  
 
+<img src="SSbearing.png" width="50%" alt="Description of image">  
 
+
+## Gearbox Design  
+
+For the gearbox
 
 
 
