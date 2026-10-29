@@ -135,15 +135,6 @@ Short Shaft: https://drive.google.com/file/d/1MdZMg481pz0g-WdSJXjKAmK2fAfebPea/v
 
 
 
-
-
-
-
-
-
-
-
-
 **Resources:**  
 https://www.mcmaster.com/7880K24/  
 https://www.mcmaster.com/7880K19/  
@@ -154,22 +145,4 @@ https://www.directplastics.co.uk/pdf/datasheets/Acetal%20Data%20Sheet.pdf
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Decide
-
-
-## Communicate
 
