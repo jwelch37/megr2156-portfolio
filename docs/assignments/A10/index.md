@@ -39,8 +39,8 @@ Before I could confirm the use of the nut and flange, I needed to verify that th
 
 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+## FEA Analysis
+
 
 ## Communicate
 
