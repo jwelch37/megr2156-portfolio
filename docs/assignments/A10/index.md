@@ -32,7 +32,15 @@ Before I could confirm the use of the nut and flange, I needed to verify that th
 
 
 
+## Assembly Modeling: Jack Welch
 
+To begin the assembly of the tensile tester, I decided on a T-slot frame. On the Grainger resource, the only parts with CAD downloads were 3 meters long, so I chose one and shortened it too 920mm, this would be just over the 3 foot lead screws it was meant to frame. The frame parts I chose have a 40mm by 80mm base, and I used four of them to construct the top, bottom and sides of the frame.  
+
+<img src="frame1.png" width="50%" alt="Description of image">  
+
+I decided to create small holders for the lead screws on the top and bottom of the tester, I made them simple 2in x 2in squares with a 0.375 in hole to fit the screws.  
+
+<img src="nut.png" width="50%" alt="Description of image">  
 
 
 
