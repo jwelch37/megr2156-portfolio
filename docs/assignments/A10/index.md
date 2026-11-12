@@ -40,14 +40,26 @@ To begin the assembly of the tensile tester, I decided on a T-slot frame. On the
 
 I decided to create small holders for the lead screws on the top and bottom of the tester, I made them simple 2in x 2in squares with a 0.375 in hole to fit the screws.  
 
-<img src="nut.png" width="50%" alt="Description of image">  
+<img src="screwhold.png" width="50%" alt="Description of image">  
+
+I fixed these holders on the top and bottom of the frame and slid the lead screws into the holders.  
+
+<img src="frame2.png" width="50%" alt="Description of image">  
+
+Next I assemble the nuts and flanges, and slid those onto the lead screws.  
+
+<img src="frame3.png" width="50%" alt="Description of image">  
+
+Finally, I mated the finalized and optimized crosshead onto the flanges, which set the distance between the lead screws.  
+
+<img src="frame4.png" width="50%" alt="Description of image">  
 
 
 
 
 
 
-## FEA Analysis
+## FEA Analysis: Jack Welch and Saniyah Wilson
 
 
 ## Communicate
