@@ -89,7 +89,9 @@ Then I increased the mesh size and ran the study again, the only value that had 
 
 ## Drawing: Jack Welch  
 
-<img src="FEA(1SF).png" width="50%" alt="Description of image">
+<img src="crosshead_draw.png" width="50%" alt="Description of image">  
+
+
 
 
 
