@@ -61,6 +61,17 @@ Finally, I mated the finalized and optimized crosshead onto the flanges, which s
 
 ## FEA Analysis: Jack Welch and Saniyah Wilson
 
+For the first FEA, we used a simple crosshead. I set the fixed supports at the holes that would attach the flanges to the crosshead, and made a concentration in the middle of the crosshead for the 2kN force that would be applied.  
 
-## Communicate
+<img src="rigid.png" width="50%" alt="Description of image"> <img src="force.png" width="50%" alt="Description of image">  
+
+I started with a default mesh and ran the study, because of our desire to dimension the crosshead with a height much greater than the minimum, the results for stress, displacement and safety factor were all ideal.  
+
+<img src="FEA(1SF).png" width="50%" alt="Description of image"> <img src="FEA(1d).png" width="50%" alt="Description of image"> <img src="FEA(1s).png" width="50%" alt="Description of image">  
+
+Then I increased the mesh size and ran the study again, the only value that had a considerable convergence was the max stress, which is because the stress was concentrated in a small area on the innermost fixed holes.  
+
+<img src="FEA1.jpg" width="50%" alt="Description of image">  
+
+
 
