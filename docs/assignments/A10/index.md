@@ -10,6 +10,10 @@ I found the minimum diameter to be 0.21 in, from there I chose a lead screw with
 
 <img src="lead_screw.png" width="50%" alt="Description of image">  
 
+**CAD:**  
+https://drive.google.com/file/d/163GmhDvFf3Nv7je6vWIuRtuG2nsFpk1d/view?usp=sharing  
+
+
 From there I found the range of rotational speeds from the linear speed by using the lead length of 0.083 in.  
 
 <img src="ls_speed.jpg" width="50%" alt="Description of image">  
@@ -24,6 +28,11 @@ From the lead screw I was able to choose a corresponding bronze nut and steel fl
 
 <img src="nut.png" width="50%" alt="Description of image">  
 <img src="flange.png" width="50%" alt="Description of image">  
+
+**CAD:**  
+https://drive.google.com/file/d/1JBb-zT3Mmm7f8CN-EyB0Ai5qbnt2cNWp/view?usp=sharing  
+
+https://drive.google.com/file/d/1-kg0XealJPAPcINVkkOLJUTcmPzSoKX4/view?usp=sharing  
 
 Before I could confirm the use of the nut and flange, I needed to verify that the internal threading would be able to handle the 1 kN load, I already figured this would not be an issue considering I chose the 12 thread nut and screw.  
 
@@ -55,8 +64,12 @@ Finally, I mated the finalized and optimized crosshead onto the flanges, which s
 <img src="frame4.png" width="50%" alt="Description of image">  
 
 
+**CAD:**  
+**Assembly:** https://drive.google.com/file/d/1HjdAu9P-SXngTeJbTKmL_nTZw0w4PDA-/view?usp=sharing  
 
+**Frame:** https://drive.google.com/file/d/1HbYq9SuitAdi3XTQkz1fmQAPXDYvJJVo/view?usp=sharing  
 
+**Screw Mount:** https://drive.google.com/file/d/14MdHZLryXikqc4SRxZua57EihbCsW9tF/view?usp=sharing  
 
 
 ## FEA Analysis: Jack Welch and Saniyah Wilson
@@ -72,6 +85,17 @@ I started with a default mesh and ran the study, because of our desire to dimens
 Then I increased the mesh size and ran the study again, the only value that had a considerable convergence was the max stress, which is because the stress was concentrated in a small area on the innermost fixed holes.  
 
 <img src="FEA1.jpg" width="50%" alt="Description of image">  
+
+
+## Drawing: Jack Welch  
+
+<img src="FEA(1SF).png" width="50%" alt="Description of image">
+
+
+
+**CAD:**  https://drive.google.com/file/d/1RzKMhPNEgwyBx3Y7eFhDD15VWFP3zDZO/view?usp=sharing  
+
+
 
 
 
