@@ -1,12 +1,12 @@
 # A11 – Motor Selection
 
-## Objective
+
+## Motor Selection and Attachments 
 
 
-## Analyze
+## Frame Bracket Design
 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+## Floating Bearing
 
-## Communicate
+## Drawings 
