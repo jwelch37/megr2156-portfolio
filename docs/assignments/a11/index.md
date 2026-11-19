@@ -1,12 +1,13 @@
 # A11 – Motor Selection
 
 
-## Motor Selection and Attachments 
+## Motor Selection and Attachments: Jack Welch
 
 
-## Frame Bracket Design
+
+## Frame Bracket Design: Saniyah Wilson
 
 
-## Floating Bearing
+## Floating Bearing: Jack Welch
 
-## Drawings 
+## Drawings: Saniyah Wilson
