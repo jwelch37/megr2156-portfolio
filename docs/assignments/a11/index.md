@@ -36,6 +36,9 @@ The only addition I made to the model was the increase in wall coverage. The hei
 <img src="frame3.png" width="50%" alt="Description of image">  
 <img src="frame4.png" width="50%" alt="Description of image">  
 
+**CAD file:**  https://drive.google.com/file/d/1GuMkiFazFKhIzuPDiwgX0bOJOneqEujo/view?usp=sharing  
+
+
 ### Coupler Design  
 
 The purpose of the coupler is to interface and transmit torque between the motor shaft and lead screw. I knew the larger inner diameter to be the diameter of the lead screw. I then needed to use shear stress torsion analysis to find the outer diameter and thickness of the coupler. 1060 Aluminum was chosen for the coupler.  
@@ -45,6 +48,8 @@ The purpose of the coupler is to interface and transmit torque between the motor
 I used this found thickness to model the coupler, I made it tall enough to to fit through the frame. The hole for the shaft is large enough to fit the entirety of the shaft, and I made the hole for the lead screw the same length for simplicity.  
 
 <img src="coupler.png" width="50%" alt="Description of image">   
+
+**CAD file:** https://drive.google.com/file/d/1zRsHMx97ui8_4OOZFrlQVoVGfdJl_vmG/view?usp=sharing  
 
 
 
@@ -61,7 +66,7 @@ For the floating bearing and its mount to the bottom frame, a RC3 fit was used f
 <img src="bearing2.png" width="50%" alt="Description of image">  
 <img src="bearing3.png" width="50%" alt="Description of image">   
 
-
+**CAD file:** https://drive.google.com/file/d/1SFJ6JRJCJaHuL3LljzSiWCBOrixviKLi/view?usp=sharing  
 
 ## Lessons Learned: Jack Welch
 
