@@ -1,4 +1,4 @@
-# A11 – Motor Selection
+<img width="398" height="621" alt="image" src="https://github.com/user-attachments/assets/676a816a-0f66-4615-9761-1d329ddee03e" /># A11 – Motor Selection
 
 
 ## Motor Selection and Attachments: Jack Welch
@@ -42,16 +42,27 @@ The purpose of the coupler is to interface and transmit torque between the motor
 
 <img src="coupler_draw.jpg" width="50%" alt="Description of image">  
 
-I used this found thickness to model the coupler, I made it tall enough to 
+I used this found thickness to model the coupler, I made it tall enough to to fit through the frame. The hole for the shaft is large enough to fit the entirety of the shaft, and I made the hole for the lead screw the same length for simplicity.  
 
-
-
+<img src="coupler.png" width="50%" alt="Description of image">   
 
 
 
 ## Frame Bracket Design: Saniyah Wilson
 
 
-## Floating Bearing: Jack Welch
+## Floating Bearing: Jack Welch 
+For the floating bearing and its mount to the bottom frame, a RC3 fit was used for the bearing and I used a locational clearance fit for the bolts to the frame, which is common.  
+
+<img src="bearing_draw.jpg" width="50%" alt="Description of image">  
+
+<img src="bearing0.png" width="50%" alt="Description of image">  
+<img src="bearing1.png" width="50%" alt="Description of image">  
+<img src="bearing2.png" width="50%" alt="Description of image">  
+<img src="bearing3.png" width="50%" alt="Description of image">   
+
+
+
+
 
 ## Drawings: Saniyah Wilson
