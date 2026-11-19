@@ -63,6 +63,12 @@ For the floating bearing and its mount to the bottom frame, a RC3 fit was used f
 
 
 
+## Lessons Learned: Jack Welch
+
+I learned a lot about the relationship between current/voltage input and torque output for stepper motors. I also learned how torque transmits stress through a part and specifically to hole and pin connections. This lead me to discover the different necessary components to create a functional and stable tensile tester, including the coupler, floating bearing and motor frame. 
+
+
+
 
 
 ## Drawings: Saniyah Wilson
