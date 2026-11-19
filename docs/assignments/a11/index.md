@@ -77,3 +77,17 @@ I learned a lot about the relationship between current/voltage input and torque 
 
 
 ## Drawings: Saniyah Wilson
+
+
+<img src="bearing_dwg.png" width="50%" alt="Description of image">  
+<img src="bracket_dwg.png" width="50%" alt="Description of image">  
+<img src="couple_dwg.png" width="50%" alt="Description of image">  
+<img src="frame_drawing.png" width="50%" alt="Description of image">  
+<img src="tester_dwg.png" width="50%" alt="Description of image">  
+
+
+
+
+
+
+
