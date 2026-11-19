@@ -55,6 +55,11 @@ I used this found thickness to model the coupler, I made it tall enough to to fi
 
 ## Frame Bracket Design: Saniyah Wilson
 
+I used the torque from the motors translating to the top frame to find the torque in the bracket holes. I chose a 2 hole bracket and chose a reasonable, base, width, and hole diameter. I then used these dimensions and bearing stress analysis and a comparison between torque and force to determine a minimum thickness.  
+
+<img src="coupler.png" width="50%" alt="Description of image">   
+<img src="coupler.png" width="50%" alt="Description of image">   
+
 
 ## Floating Bearing: Jack Welch 
 For the floating bearing and its mount to the bottom frame, a RC3 fit was used for the bearing and I used a locational clearance fit for the bolts to the frame, which is common.  
