@@ -26,7 +26,7 @@ Before I did any calculations, I made a rough draft of my intended design. My id
 
 Due to the torque of the motor transmitted into the frame, the base of the frame needed to have a minimum thickness to withstand the bearing stress that would be transmitted from the reactionary torque of the four screws. I chose for the bracket to be 1060 Aluminum and used the yield strength and the safety factor of 4 to find an allowable bearing stress.  
 
-<img src="frame_stress.png" width="50%" alt="Description of image">  
+<img src="frame_stress.jpg" width="50%" alt="Description of image">  
 
 The only addition I made to the model was the increase in wall coverage. The height I used to for the bracket was outlined in the drawing, which I used for the height of the bracket.  
 
