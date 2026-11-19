@@ -1,4 +1,4 @@
-<img width="398" height="621" alt="image" src="https://github.com/user-attachments/assets/676a816a-0f66-4615-9761-1d329ddee03e" /># A11 – Motor Selection
+# A11 – Motor Selection
 
 
 ## Motor Selection and Attachments: Jack Welch
